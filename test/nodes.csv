@@ -1,0 +1,4 @@
+SpotSubType,_id,cityId,countryCode,lat,lon,name
+Train station,TMIL01,MIL,IT,45.485889,9.204229,Milan Centrale railway station
+Train station,TMIL02,MIL,IT,45.484245,9.187527," Porta Garibaldi railway station"
+Train station,TMZA01,MZA,IT,45.577942,9.272908,Monza railway station
